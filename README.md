@@ -12,6 +12,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisesmusa@gmail.com)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/praises-tula/)
 
+👤 **PRATAP PANABAKA**
+
+- GitHub: [@PRATAP-KUMAR](https://github.com/PRATAP-KUMAR)
+- Linkedin: [@LinkedIn](https://www.linkedin.com/in/pratap-kumar-panabaka-755489236/)
+- Twitter: [@PRATAP_TWT](https://twitter.com/PRATAP_TWT)
+
 ## 🤝 Contributing
 
 Contributions, [issues](../../issues), and feature requests are welcome!
